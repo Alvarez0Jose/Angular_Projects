@@ -1,2 +1,3 @@
-# PHP_Basics
-This was going to be PHP but ended up being Angular content 
+# Angular_Projects
+Here I'll be posting some projects with Angular as a Front End Framework.
+
